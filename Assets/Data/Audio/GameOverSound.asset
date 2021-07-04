@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 796948aaf596d7e42bcbcbdecdc4c13f, type: 3}
+  m_Name: GameOverSound
+  m_EditorClassIdentifier: 
+  _clip: {fileID: 8300000, guid: 07a792c2d79d3e741bad931465d2555a, type: 3}
+  _volume: 0.1
+  _randomPitch: 0
+  _minPitch: 1
+  _maxPitch: 0
+  _spartalBlend: 0
